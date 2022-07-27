@@ -1,0 +1,49 @@
+.body {
+    background: #F2F2F2;
+}
+
+.App {
+
+    display: flex;
+    align-items: center;
+   
+}
+
+.dataInfo li{
+    list-style: none;
+}
+
+h1 {
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(1, 1, 59);
+}
+
+.inputSearch{
+    background:#fff;
+    border: solid thin #eee;
+    padding:12px;
+    width:300px;
+}
+
+.searchContent{
+    max-height:100px;
+}
+
+.row{
+    border-bottom:solid thin #eee;
+    padding:10px;
+}
+
+.searchContent img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+    .searchContent div {
+        display:flex;
+    }
+
+ul li {
+    font-size: 20px;
+}
